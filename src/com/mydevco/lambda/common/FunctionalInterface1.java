@@ -2,7 +2,7 @@ package com.mydevco.lambda.common;
 
 /**
  *
- * @author gkmek_000
+ * @author mydevco
  */
 public interface FunctionalInterface1 {
     double getLongValue();
