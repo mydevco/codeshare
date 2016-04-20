@@ -1,4 +1,4 @@
-package com.mydevco.lambda.common;
+package com.mydevco.javabp.datetime;
 
 import java.time.Duration;
 import java.time.Instant;

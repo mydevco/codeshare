@@ -1,4 +1,4 @@
-package com.mydevco.lambda.common;
+package com.mydevco.javabp.io;
 
 import java.io.IOException;
 import java.nio.file.DirectoryStream;
